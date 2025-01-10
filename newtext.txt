@@ -1,4 +1,10 @@
 I love you
 
+<<<<<<< HEAD
 You love me too
 
+=======
+
+
+Thank you
+>>>>>>> 02
